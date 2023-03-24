@@ -1,4 +1,4 @@
-# Pandas-Data-Analysis
+# Sales-Data-Analysis
 
 ## Background Information:
 This repo goes on "Solving real world data science with Python Pandas!".
