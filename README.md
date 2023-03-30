@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 
 ## Background Information:
-This repo goes on "Solving real world data science with Python Pandas!".
+This repo goes on "Solving real world data science with Python Pandas, and Matplotlib!".
 
 In this we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
